@@ -1,9 +1,12 @@
 ### Hello I'm Kittipong (Bench) 🐱‍🚀
 
-Currently, I'm a Process Engineer who passionate about coding and data science, especially for "Machine learning". I really enjoy coding with Python to get some insights from data and build models and see how our computer can learn from what we give!!!. I really was inspired by that. So, I started to learn about this field in many platforms, created what I have learned so far, amd share this knowledge to every one. Hope everyone who come to see this enjoy yourself.
+Currently, I'm a Process Engineer who passionate about coding and data science, especially for "Machine learning". I really enjoy coding with Python to get some insights from data and build models and see how our computer can learn from what we give!!!. I really was inspired by that. So, I started to learn about this field in many platforms, created and share what I have learned so far to every one.
 
-Let's jump to the data world. 💻
-
+## Skills
+• Python
+• SQL
+• R
+• BI tools i.e., power BI, Tableau, Google studio
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kittipongko)](https://github.com/kittipongko/github-readme-stats)
 <!--
