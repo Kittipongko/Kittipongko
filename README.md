@@ -1,4 +1,4 @@
-### Hello I'm Bench 🐱‍🚀
+#### Hello, I'm Bench 🐱‍🚀
 
 ## Kittipong Kongtavornkul
 
