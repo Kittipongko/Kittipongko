@@ -11,7 +11,7 @@ Currently, I'm a Process Engineer who passionate about coding and data science, 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kittipongko)](https://github.com/kittipongko/github-readme-stats)
 
 
-[![linkedin](https://user-images.githubusercontent.com/88956038/161243836-2bff633a-dd5a-458c-a216-a81452f6ca97.png)](https://www.linkedin.com/in/kittipong-kongtavornkul/)
+[![linkedin (3)](https://user-images.githubusercontent.com/88956038/161244203-de678294-2e4e-45c9-9e91-95152dd5e31c.png)](https://www.linkedin.com/in/kittipong-kongtavornkul/)
 
 
 <!--
